@@ -4,7 +4,7 @@ body {
 }
 
 .heading {
-  background-image: url("./resources/img/the-flatiron-building.png");
+  background-image: url("./img/the-flatiron-building.png");
   color: white;
 }
 
@@ -27,6 +27,16 @@ p {
   font-size: 14px;
 }
 
+p.copyright {
+  font-size: 11px;
+  color: white;
+}
+
+div.navigation {
+  background-color: dimgray;
+  text-align: left;
+}
+
 a.link {
   font-family: Helvetica;
   font-size: 18px;
@@ -37,5 +47,5 @@ a.link {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("./resources/img/the-flatiron-building.png");
+  background-image: url("./img/the-flatiron-building.png");
 }
